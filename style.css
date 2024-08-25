@@ -1,0 +1,22 @@
+h2{color:rgb(42, 42, 85);}
+
+body{background-color:rgb(160, 211, 234);
+color:rgb(25, 33, 33);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;}
+
+header{
+    border-bottom: 1px solid gray;
+}
+
+footer{
+    border-top: 1px solid gray;
+}
+
+#nomeUsuario{
+    font-weight: bold;
+}
+
+.subtitulo{
+    font-style: italic;
+}
